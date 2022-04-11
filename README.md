@@ -7,7 +7,7 @@
 
 - Python
 
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/80)
+![](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg")
 
 - C++
 
