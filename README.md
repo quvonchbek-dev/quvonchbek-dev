@@ -4,6 +4,3 @@
 - 👀 I’m interested in `Python`
 - 🌱 I’m currently learning `django`, `aiogram`
 - 📫 My Telegram user: `@quvonchbekumurzoqov`
-
-# My Skills
-
