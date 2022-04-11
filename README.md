@@ -5,19 +5,17 @@
 
 # My Skills
 
-- Python
+![Overview][1]
+[1]: https://github.com/specialorange/FDXCM/blob/master/doc/controllers_brief.svg  "Overview"
 
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+<img src="https://raw.github.com/specialorange/FDXCM/master/doc/controllers_brief.svg">
 
-- C++
+![Alt text](https://raw.github.com/specialorange/FDXCM/master/doc/controllers_brief.svg)
 
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/60)
+[Google Doc](https://docs.google.com/drawings/d/1B95ajItJTAImL2WXISX0fkBLYk3nldea4Vm9eo-VyE4/edit) :
 
-- Java 
+<img src="https://docs.google.com/drawings/pub?id=117XsJ1kDyaY-n8AdPS3_8jTgMyITqaoT3-ah_BSc9YQ&w=960&h=720">
 
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/75)
+<img src="https://raw.github.com/specialorange/FDXCM/master/doc/controllers_brief.svg">
 
-<!---
-quvonchbek-umurzoqov/quvonchbek-umurzoqov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://docs.google.com/drawings/d/1B95ajItJTAImL2WXISX0fkBLYk3nldea4Vm9eo-VyE4/edit">
