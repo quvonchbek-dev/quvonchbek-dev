@@ -1,6 +1,6 @@
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-# [![waylon walker header]([https://www.marc-richter.info/wp-content/uploads/2018/07/telegram-bot-logo.jpg](https://repository-images.githubusercontent.com/253698085/cce90300-78c3-11ea-8b94-604fad2c516d))](https://waylonwalker.com)
+# [![Django]([https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2020/06/python-django.png))](https://www.djangoproject.com/)
 
 - 👋 Hi, I’m Quvonchbek!
 - 👀 I’m interested in `Python`
