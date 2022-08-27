@@ -1,3 +1,5 @@
+## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+
 # [![waylon walker header](https://www.marc-richter.info/wp-content/uploads/2018/07/telegram-bot-logo.jpg)](https://waylonwalker.com)
 
 - 👋 Hi, I’m Quvonchbek!
@@ -5,9 +7,7 @@
 - 🌱 I’m currently learning `django`, `aiogram`
 - 📫 My Telegram user: `@quvonchbekumurzoqov`
 
-## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-### Hi 🙋‍♂️,
-### I'm Dostonbek Ibragimov. I'm 21 years old, a Mobile Developer 🚀 from Uzbekistan.
+
 <a href="https://t.me/QuvonchbekUmurzoqov">
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
@@ -38,5 +38,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DostonbekIbragimov&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/DostonbekIbragimov/DostonbekIbragimov">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=quvonchbek-umurzoqov&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Dostonbek's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=quvonchbek-dev&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Quvonchbek's GitHub Stats" />
 </a>
