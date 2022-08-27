@@ -1,4 +1,5 @@
-## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+## Welcome to my world <img src="https://github.com/TheDudeThat
+/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 # [![Django]([https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2020/06/python-django.png))](https://www.djangoproject.com/)
 
@@ -14,7 +15,7 @@
 <a href="https://www.instagram.com/Quvonchbekumurzoqov/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://cpython.uz/users/Quvonchbek">
+<a href="https://cpython.uz/user/Quvonchbek/">
   <img align="left" alt="Cpython" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codeforces.svg" />
 </a>
 <a href="https://www.facebook.com/Quvonchbekumurzoqov">
