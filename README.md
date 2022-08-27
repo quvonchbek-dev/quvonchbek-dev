@@ -34,9 +34,9 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/DostonbekIbragimov/DostonbekIbragimov">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DostonbekIbragimov&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/quvonchbek-dev/quvonchbek-dev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quvonchbek-dev&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/DostonbekIbragimov/DostonbekIbragimov">
+<a href="https://github.com/quvonchbek-dev/quvonchbek-dev">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=quvonchbek-dev&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Quvonchbek's GitHub Stats" />
 </a>
