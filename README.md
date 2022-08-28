@@ -1,6 +1,6 @@
 ## Welcome to my world <img src="https://github.com/TheDudeThat/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-# [![Django]([https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2020/06/python-django.png))](https://www.djangoproject.com/)
+<img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2020/06/python-django.png">
 
 - 👋 Hi, I’m Quvonchbek!
 - 👀 I’m interested in `Python`
